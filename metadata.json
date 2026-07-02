@@ -1,0 +1,6 @@
+{
+  "name": "AI Hotspot Monitor",
+  "description": "An intelligent, AI-powered Hacker News research and trend monitor tracking technical, marketing, and academic developments in the AI space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
